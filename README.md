@@ -1,3 +1,4 @@
+Steps to Follow to Run This Code:
 This project revolves around a ride-sharing mobile application developed using Flutter.
 I followed Egon Castle's playlist and incorporated additional pages for my convenience.
 To use this code, you must create two Flutter projects under the same organization: 1) user and 2) driver.
